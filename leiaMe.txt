@@ -1,0 +1,26 @@
+Projeto de Programação orientada a Objetos, Professor Ricardo Rubens.
+
+Integrantes: Gustavo Henrique Freire de Andrade Araújo(desenvolvedor de todo o projeto).
+
+Perguntas:
+
+1°) Tudo o que foi pedido foi realizado? Faltou algo?
+
+Não, não foi possível criar uma interface gráfica para o usuário. Sim, a interface gráfica para que o usuário pudesse interajir.
+
+2°) Há algum problema/erro identificado?
+
+Sim, as idades dos animais não possuem maximos, por isso podem ter animais com idades extremamente altas; a depender do usuário.
+
+3. Descrição da experiência:
+
+Foi relativamente fácil e divertido criar o programa base do projeto, apesar de ter me frustrado com o fato de não ter conseguido fazer uma interface gráfica que correspondesse aos requisitos.
+
+4. Dificuldades encontradas:
+
+O fato de ter feito sozinho impossibilitou a implementação de outras idéias.
+
+
+Referência:
+
+° Ajuda do Monitor de POO Levy Abreu.
